@@ -185,7 +185,7 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/fhoe2qqHmCG1BbsQA) al final de tu mentoría.
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
