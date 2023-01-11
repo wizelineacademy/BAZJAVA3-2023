@@ -22,39 +22,39 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.**
 
-[Liga Acceso Telegram grupal](https://t.me/+rkM_ugSgwYwzNTQx) Es importante unirse ya que toda la comunicación del curso se lleva por este medio.
+[Liga Acceso Telegram grupal](https://t.me/+rkM_ugSgwYwzNTQx) 
+Es importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario]()
-
-En este calendario veras las sesiones que estan agendadas durante este curso.
+![Calendario Bloque 3](https://github.com/wizelineacademy/BAZJAVA3-2023/blob/main/Calendario%20Bloque%203%20Java.png)
+En este calendario encontrarás las sesiones que están agendadas durante este curso.
 
 # II. Información general del entrenamiento
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constá de los siguientes elementos:
 
 **Sesiones en Vivo** 
-- Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Miércoles`: 9am en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/84778203669?pwd=Q2RPd0wvVHNWYitDaHVNcm9EaU8vZz09) en caso de no poderse presentar.
-- Martes, Jueves y Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/84778203669?pwd=Q2RPd0wvVHNWYitDaHVNcm9EaU8vZz09)
+- Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Miércoles y Jueves: 9am en oficinas de Wizeline - [Liga Zoom](https://wizeline.zoom.us/j/87377966159) en caso de no poderte presentar.
+- Lunes, Martes y Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/87377966159)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto Wizeline Academy/Telegram y a tu líder de gremio
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos vía Contacto DSA/Telegram, con copia a Lluvia Martínez lluvia.martinez@gesech.com y a tu líder de gremio.
 
 **Mentorías Grupales**
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
-- Lunes y Miércoles: 11am en oficinas de Wizeline
+- Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
+- Miércoles y Jueves: 11am en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo estan las instrucciones y ligas para solicitar una sesión.
+- Estas son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+- Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
 **Proyecto Final (Capstone Project)**
-- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
+- Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
-Los temas estan divididos en 6 semanas, 3 sesiones por semana. 
+Los temas están divididos en 6 semanas, 3 sesiones por semana. 
 
 ## :bookmark_tabs: Sesiones
 
