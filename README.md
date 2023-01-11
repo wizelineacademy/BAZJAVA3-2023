@@ -124,7 +124,7 @@ Para la revisión de tu Capstone Project se te asignará un mentor, el cual te d
 # V. Agenda tu mentoria 📆
 Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
 
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/seCaheZXytZafU9x7) al final de tu mentoría.
+Recuerda llenar el [https://forms.gle/fhoe2qqHmCG1BbsQA) al final de tu mentoría.
 
 ### Mentores Asignados
 
@@ -184,8 +184,6 @@ Selecciona la liga de abajo de cualquiera de los mentores, te abrira su calendar
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
 - [Ricardo Garza](https://calendly.com/ricardo-garza/30min)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/fhoe2qqHmCG1BbsQA) al final de tu mentoría.
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
