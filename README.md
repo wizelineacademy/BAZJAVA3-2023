@@ -122,15 +122,20 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 # V. Agenda tu mentoria 📆
-Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
 
-Recuerda llenar el [https://forms.gle/fhoe2qqHmCG1BbsQA) al final de tu mentoría.
+Selecciona la liga de Calendly de tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios. Elige la que mejor se acomode a tu necesidad.
+
+Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes seleccionar a cualquier otro mentor con base en su disponibilidad:
+
+Recuerda llenar el **[https://forms.gle/fhoe2qqHmCG1BbsQA)** al final de tu mentoría.
+
+Recuerda que debes tener, al menos una mentoría por semana con tu mentor asignado.
 
 ### Mentores Asignados
 
-| Mentor               | Mentee                          |  Liga para agendar mentoria                |
-|----------------------|---------------------------------|--------------------------------------------|
-| `Álvaro Rodríguez`       | - Abraham Gutierrez Lara   <br/> - Agustin Zuloaga Refugio <br/> - Cristian E. Romero Lopez.       | [Liga](https://calendly.com/marco-robles-wize) |
+| ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
+| ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
+| 10037353    |  CARLOS ALBERTO GONZALEZ GARCIA     | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |
 
 
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
