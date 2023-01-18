@@ -139,7 +139,7 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 | 10037341    |  MAXIMILIANO ROJAS VALENCIA         | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |
 | 10037327    |  VALENTIN CORONA RAMIREZ            | [Paco Ramírez]()            | [Paco Ramírez]()           |
 | 10037328    |  ALMA LILIANA ESQUEDA GARCIA        | [Paco Ramírez]()            | [Paco Ramírez]()           |
-| 10037329    |  EDGAR ALEJANDRO FERNANDEZ AVILA    | [Diana Fernández]()         | Diana Fernández]()         |
+| 10037329    |  EDGAR ALEJANDRO FERNANDEZ AVILA    | [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)         | Diana Fernández]()         |
 | 1063446     |  EDGAR RAMÍREZ TOALA                | [Diana Fernández]()         | [Diana Fernández]()        |
 | 1028992     |  OMAR TOXQUI TOLAMA                 | [Neftali Ramos]()           | [Neftali Ramos]()          |
 | 962071      |  EDUARDO JIMÉNEZ TAPIA              | [Neftali Ramos]()           | [Neftali Ramos]()          |
