@@ -135,7 +135,22 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
-| 10037353    |  CARLOS ALBERTO GONZALEZ GARCIA     | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |
+| 10037353    |  CARLOS ALBERTO GONZALEZ GARCIA     | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |   
+| 10037341    |  MAXIMILIANO ROJAS VALENCIA         | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |
+| 10037327    |  VALENTIN CORONA RAMIREZ            | [Paco Ramírez]()            | [Paco Ramírez]()           |
+| 10037328    |  ALMA LILIANA ESQUEDA GARCIA        | [Paco Ramírez]()            | [Paco Ramírez]()           |
+| 10037329    |  EDGAR ALEJANDRO FERNANDEZ AVILA    | [Diana Fernández]()         | Diana Fernández]()         |
+| 1063446     |  EDGAR RAMÍREZ TOALA                | [Diana Fernández]()         | [Diana Fernández]()        |
+| 1028992     |  OMAR TOXQUI TOLAMA                 | [Neftali Ramos]()           | [Neftali Ramos]()          |
+| 962071      |  EDUARDO JIMÉNEZ TAPIA              | [Neftali Ramos]()           | [Neftali Ramos]()          |
+| 1043711     |  OMAR SALAZAR PÉREZ                 | [Omar Balandrán]()          | [Omar Balandrán]()         |
+| 10039443    |  RICARDO AXEL DIAZ                  | [Omar Balandrán]()          | [Omar Balandrán]()         |
+| 961121      |  SARAI SANCHEZ VARGAS               | [Víctor Taboada]()          | [Víctor Taboada]()         |
+| 965845      |  JOSE MANUEL GARNICA BENITEZ        | [Víctor Taboada]()          | [Víctor Taboada]()         |
+| 916439      |  EMMANUEL VARGAS GONZALEZ           | [Pao Pileño]()              | [Pao Pileño]()             |
+| 1040089     |  VIRIDIANA AVILES ALBINO            | [Pao Pileño]()              | [Pao Pileño]()             |
+| 86927       |  EDWARD HERNANDEZ SANTIAGO          | [Luis Montes]()             | [Luis Montes]()            |
+| 949273      |  JOSE MARIA GARCIA SOTELO           | [Luis Montes]()             | [Luis Montes]()            |
 
 
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
