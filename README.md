@@ -153,6 +153,7 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 | 949273      |  JOSE MARIA GARCIA SOTELO           | [Luis Montes]()             | [Luis Montes]()            |
 
 
+### Mentores especializados por tema
 ### GIT, Microservicios, RestAPIs, Serverless (Semana 1)
 
 
