@@ -130,15 +130,8 @@ Recuerda llenar el [https://forms.gle/fhoe2qqHmCG1BbsQA) al final de tu mentorí
 
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Marco Robles`       | - Abraham Gutierrez Lara   <br/> - Agustin Zuloaga Refugio <br/> - Cristian E. Romero Lopez.       | [Liga](https://calendly.com/marco-robles-wize) |
-| `Neftali Ramos`      | - Abraham Moran Mendoza  <br/> - David de Jesus Ramírez Arellano | [Liga](https://calendly.com/neftali-ramos/mentoria-baz)
-| `Paco Ramirez`       | - Erick Gayosso Guzman <br/> - Esteban Alexander Rojas Perez <br/> - Estefania Ponce de Leon Rosas | [Liga](https://calendly.com/paco-mojica/mentoria-baz)
-| `Diego Osorno`       | - Gustavo Solar Gaona <br/> - Irvin Oswaldo Cabrera Ibañez | [Liga](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10) |
-| `Mario A. Cruz`      | - Israel Arroyo Alvarez <br/> - Ivan Matias Ordoñez Lozada <br/>  | [Liga](https://calendly.com/mario-cruz-wizeline) |
-| `Ricardo Garza`      |  - Jose Manuel Mendoza Garcia <br/> - Mateo Javier Aguilar Carrillo <br/> - Neri Sanchez Lozano  | [Liga](https://calendly.com/ricardo-garza/30min)
-| `Gerardo Fernandez`  | - Salvador Medrano Romero <br/> - Alejandro Ramirez Flores <br/> - Cristian Elias Jimenez Perez | [Liga](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-| `Diana Fernandez`    | - David Hinostroza Loera <br/> - Eduardo Antonio Cedillo Segovia <br/> - Jonathan Alan Reyes Nava | [Liga](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
-| `Jose Perea`         | - Luis Eduardo Hernandez Garcia <br/> - Mizraim Martinez Benitez <br/> - Oswaldo Santiago Sanjuan | [Liga](https://calendly.com/jose-vazquez-wizeline) |
+| `Álvaro Rodríguez`       | - Abraham Gutierrez Lara   <br/> - Agustin Zuloaga Refugio <br/> - Cristian E. Romero Lopez.       | [Liga](https://calendly.com/marco-robles-wize) |
+
 
 Si deseas una tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
