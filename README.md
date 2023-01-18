@@ -45,7 +45,8 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Miércoles y Jueves: 11am en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Estas son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Recuerda que debes contar con un mínimo de **una mentoría por semana** con tu **mentor asignado** para tener derecho a presentar Capstone Project.
 
 **Ruta de Autoaprendizaje**
 - Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
@@ -129,7 +130,6 @@ Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes sele
 
 Recuerda llenar el **[https://forms.gle/fhoe2qqHmCG1BbsQA)** al final de tu mentoría.
 
-Recuerda que debes tener, al menos una mentoría por semana con tu mentor asignado.
 
 ### Mentores Asignados
 
