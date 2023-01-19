@@ -172,14 +172,14 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 
-### Spring Boot (Semanas 4)
+### Spring Boot (Semana 4)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
 - [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
 - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 
-### Spring Boot (Semanas 5)
+### Spring Boot (Semana 5)
 - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 - [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
