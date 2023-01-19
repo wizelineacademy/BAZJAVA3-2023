@@ -135,44 +135,62 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 
 | ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
 | ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
-| 10037353    |  CARLOS ALBERTO GONZALEZ GARCIA     | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |   
-| 10037341    |  MAXIMILIANO ROJAS VALENCIA         | [Álvaro Rodríguez]()        | [Álvaro Rodríguez]()       |
-| 10037327    |  VALENTIN CORONA RAMIREZ            | [Paco Ramírez]()            | [Paco Ramírez]()           |
-| 10037328    |  ALMA LILIANA ESQUEDA GARCIA        | [Paco Ramírez]()            | [Paco Ramírez]()           |
-| 10037329    |  EDGAR ALEJANDRO FERNANDEZ AVILA    | [Diana Fernández]()         | [Diana Fernández]()        |
-| 1063446     |  EDGAR RAMÍREZ TOALA                | [Diana Fernández]()         | [Diana Fernández]()        |
-| 1028992     |  OMAR TOXQUI TOLAMA                 | [Neftali Ramos]()           | [Neftali Ramos]()          |
-| 962071      |  EDUARDO JIMÉNEZ TAPIA              | [Neftali Ramos]()           | [Neftali Ramos]()          |
-| 1043711     |  OMAR SALAZAR PÉREZ                 | [Omar Balandrán]()          | [Omar Balandrán]()         |
-| 10039443    |  RICARDO AXEL DIAZ                  | [Omar Balandrán]()          | [Omar Balandrán]()         |
+| 10037353    |  CARLOS ALBERTO GONZALEZ GARCIA     | [Álvaro Rodríguez](https://calendly.com/arodez/baz-mentoria-1-1)| [Álvaro Rodríguez](https://github.com/arodez)|   
+| 10037341    |  MAXIMILIANO ROJAS VALENCIA         | [Álvaro Rodríguez](https://calendly.com/arodez/baz-mentoria-1-1)| [Álvaro Rodríguez](https://github.com/arodez)|   
+| 10037327    |  VALENTIN CORONA RAMIREZ            | [Paco Ramírez](https://calendly.com/paco-mojica/mentoria-baz?month=2023-01)| [Paco Ramírez](https://github.com/PacoMojica)|
+| 10037328    |  ALMA LILIANA ESQUEDA GARCIA        | [Paco Ramírez](https://calendly.com/paco-mojica/mentoria-baz?month=2023-01)| [Paco Ramírez](https://github.com/PacoMojica)|
+| 10037329    |  EDGAR ALEJANDRO FERNANDEZ AVILA    | [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)| [Diana Fernández](https://github.com/dianafernandezr)|
+| 1063446     |  EDGAR RAMÍREZ TOALA                | [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)| [Diana Fernández](https://github.com/dianafernandezr)|
+| 1028992     |  OMAR TOXQUI TOLAMA                 | [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)| [Neftali Ramos](https://github.com/NeftaliRJ)|
+| 962071      |  EDUARDO JIMÉNEZ TAPIA              | [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)| [Neftali Ramos](https://github.com/NeftaliRJ)|
+| 1043711     |  OMAR SALAZAR PÉREZ                 | [Óscar Balandrán](https://calendly.com/oscar-balandran/baz-mentoria-1-1)| [Óscar Balandrán](https://github.com/oscar-balandran)|
+| 10039443    |  RICARDO AXEL DIAZ                  | [Óscar Balandrán](https://calendly.com/oscar-balandran/baz-mentoria-1-1)| [Óscar Balandrán](https://github.com/oscar-balandran)|
 | 961121      |  SARAI SANCHEZ VARGAS               | [Víctor Taboada]()          | [Víctor Taboada]()         |
 | 965845      |  JOSE MANUEL GARNICA BENITEZ        | [Víctor Taboada]()          | [Víctor Taboada]()         |
-| 916439      |  EMMANUEL VARGAS GONZALEZ           | [Pao Pileño]()              | [Pao Pileño]()             |
-| 1040089     |  VIRIDIANA AVILES ALBINO            | [Pao Pileño]()              | [Pao Pileño]()             |
-| 86927       |  EDWARD HERNANDEZ SANTIAGO          | [Luis Montes]()             | [Luis Montes]()            |
-| 949273      |  JOSE MARIA GARCIA SOTELO           | [Luis Montes]()             | [Luis Montes]()            |
-
+| 916439      |  EMMANUEL VARGAS GONZALEZ           | [Pao Pileño](https://calendly.com/paola-pileno/baz-mentoria-1-1)| [Pao Pileño](https://github.com/paopileno)|
+| 1040089     |  VIRIDIANA AVILES ALBINO            | [Pao Pileño](https://calendly.com/paola-pileno/baz-mentoria-1-1)| [Pao Pileño](https://github.com/paopileno)|
+| 86927       |  EDWARD HERNANDEZ SANTIAGO          | [Luis Montes](https://calendly.com/luis-montesg/baz-mentoria-1-1)| [Luis Montes](https://github.com/LuisMG96)|
+| 949273      |  JOSE MARIA GARCIA SOTELO           | [Luis Montes](https://calendly.com/luis-montesg/baz-mentoria-1-1)| [Luis Montes](https://github.com/LuisMG96)|
 
 ### Mentores especializados por tema
 ### GIT, Microservicios, RestAPIs, Serverless (Semana 1)
+- [Marco Robles](https://calendly.com/marco-robles-wize)
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
+- [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 
-
-### Kafka (Semana 2)
-
-
-### MongoDB (Semana 2)
-
+### Kafka, Mongo (Semana 2)
+- [Marco Robles](https://calendly.com/marco-robles-wize)
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
 
 ### Java (Semana 3)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Marco Robles](https://calendly.com/marco-robles-wize)
+- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
 
+### Spring Boot (Semanas 4)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
+- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 
-
-### Spring Boot (Semanas 4 y 5)
- 
-
+### Spring Boot (Semanas 5)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 
 ### JUnit (Semana 6)
-
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
+- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
+- [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1)
+- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
