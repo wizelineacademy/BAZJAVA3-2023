@@ -156,44 +156,14 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 
 ### Mentores especializados por tema
 
-| Tema Especializado    | Mentor                    | Tema Especializado    | Mentor                    |
-| :-------------------- | :------------------------ | :-------------------- | :------------------------ | 
+| Tema Especializado    | Mentor                    |
+| :-------------------- | :------------------------ |
 |GIT, Microservicios, RestAPIs, Serverless (Semana 1) | - [Marco Robles](https://calendly.com/marco-robles-wize) - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) - [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1) - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10) - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)|
 |Kafka, Mongo (Semana 2) | - [Marco Robles](https://calendly.com/marco-robles-wize) - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) |
+|Java (Semana 3) | - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02) - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) - [Marco Robles](https://calendly.com/marco-robles-wize) - [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz) - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) |
+|Spring Boot (Semana 4/5) | - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02) - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz) - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) - [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz) - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) |
+|JUnit (Semana 6) | - [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1) - [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02) - [Jose Perez](https://calendly.com/jose-vazquez-wizeline) - [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz) - [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz) |
 
-
-
-### Kafka, Mongo (Semana 2)
-- [Marco Robles](https://calendly.com/marco-robles-wize)
-- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-
-### Java (Semana 3)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-- [Marco Robles](https://calendly.com/marco-robles-wize)
-- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
-- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-
-### Spring Boot (Semana 4)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
-- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
-
-### Spring Boot (Semana 5)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
-
-### JUnit (Semana 6)
-- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)
-- [Jose Perez](https://calendly.com/jose-vazquez-wizeline) 
-- [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1)
-- [Diana Fernández](https://calendly.com/dianafernandez-wizeline/mentoria-baz)
-- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-mentoria-1-1?month=2023-02)
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
