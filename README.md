@@ -155,6 +155,16 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 | 949273      |  JOSE MARIA GARCIA SOTELO           | [Luis Montes](https://calendly.com/luis-montesg/baz-mentoria-1-1)| [Luis Montes](https://github.com/LuisMG96)|
 
 ### Mentores especializados por tema
+
+| Tema Especializado    | Mentor                    | Tema Especializado    | Mentor                    |
+| --------------------: | :------------------------ | --------------------: | :------------------------ | 
+|GIT, Microservicios, RestAPIs, Serverless (Semana 1) | - [Marco Robles](https://calendly.com/marco-robles-wize)
+- [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
+- [Tessa Partida](https://calendly.com/teresa-partida/baz-mentoria-1-1)
+- [Diego Osorno](https://calendly.com/diego-osorno-wizeline/baz-java-grupo-2?month=2022-10)
+- [Gerardo Ruiz](https://calendly.com/gerardoruiz-wizeline/mentoria-baz)|
+
+
 ### GIT, Microservicios, RestAPIs, Serverless (Semana 1)
 - [Marco Robles](https://calendly.com/marco-robles-wize)
 - [Neftali Ramos](https://calendly.com/neftali-ramos/mentoria-baz)
