@@ -25,7 +25,9 @@ Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.
 [Liga Acceso Telegram grupal](https://t.me/+rkM_ugSgwYwzNTQx) 
 Es importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-![Calendario Bloque 3](https://github.com/wizelineacademy/BAZJAVA3-2023/blob/main/Calendario%20Bloque%203%20Java.png)
+Calendario JAVA Bloque 3 <br>
+<img width="520" alt="Calendario JAVA Bloque 3" src="https://user-images.githubusercontent.com/94467952/214111103-a815d183-ae96-4e20-a24a-f4ff18f0b0ec.png">
+
 En este calendario encontrarás las sesiones que están agendadas durante este curso.
 
 # II. Información general del entrenamiento
