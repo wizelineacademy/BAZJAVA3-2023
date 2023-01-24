@@ -3,7 +3,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 1
 - [Lunes 23 Ene - GIT]()
-- 📺 [Grabación Lunes 23 Ene]()
+- 📺 [Grabación Lunes 23 Ene](https://drive.google.com/file/d/1fF-QH0jJfpCKe_JJ-62sAqUWvJZzy3Hq/view?usp=sharing)
 - [Martes 24 Ene - Microservicios I]()
 - 📺 [Grabación Martes 24 Ene]()
 - [Miércoles 25 Ene - RestAPIS]()
