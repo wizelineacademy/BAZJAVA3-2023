@@ -2,15 +2,15 @@
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
-- [Lunes 23 Ene - GIT]()
+- [Lunes 23 Ene - GIT](https://drive.google.com/file/d/18YeWwiAcLPZXGeCZsl8jyhqLz_gxCRnJ/view?usp=share_link)
 - 📺 [Grabación Lunes 23 Ene](https://drive.google.com/file/d/1fF-QH0jJfpCKe_JJ-62sAqUWvJZzy3Hq/view?usp=sharing)
-- [Martes 24 Ene - Microservicios I]()
+- [Martes 24 Ene - Microservicios I](https://drive.google.com/file/d/1K-f0UprpIpOuJ8sel61RRcTM-LE7d5AH/view?usp=share_link)
 - 📺 [Grabación Martes 24 Ene]()
-- [Miércoles 25 Ene - RestAPIS]()
+- [Miércoles 25 Ene - RestAPIS](https://drive.google.com/file/d/1lCDQF0MhQf8ezQn_Ylea7ES1uTQb3RwM/view?usp=sharing)
 - 📺 [Grabación Miércoles 25 Ene]()
-- [Jueves 26 Ene - Serverless]()
+- [Jueves 26 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
 - 📺 [Grabación Jueves 26 Ene]()
-- [Viernes 27 Ene - Serverless]()
+- [Viernes 27 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
 - 📺 [Grabación Viernes 27 Ene]()
 
 # Semana 2
