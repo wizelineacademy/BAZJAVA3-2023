@@ -128,3 +128,4 @@ La practica y ejercicios las podemos encontrar en el directorio de practica
 * [Aprendiendo Apache Kafka Pt 1](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-1/)
 * [Aprendiendo Apache Kafka Pt 2](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-2-2/)
 * [Aprendiendo Apache Kafka Pt 4 - Instalación](https://www.enmilocalfunciona.io/aprendiendo-apache-kafka-parte-4/)
+* [A gently introduction to Apache Kafka](http://www.gentlydownthe.stream)
