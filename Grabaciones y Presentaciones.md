@@ -26,11 +26,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 3 Feb]()
 
 # Semana 3
-- [Martes 7 Feb - Java II]()
+- [Martes 7 Feb - Java I]()
 - 📺 [Grabación Martes 7 Feb t]()
-- [Miércoles 8 Feb - Java III]()
+- [Miércoles 8 Feb - Java II]()
 - 📺 [Miércoles 8 Feb]()
-- [Jueves 9 Feb - Java IV]()
+- [Jueves 9 Feb - Java III]()
 - 📺 [Grabación Jueves 9 Feb]()
 -  [Viernes 10 Feb - Java IV]()
 - 📺 [Grabación Viernes 10 Feb]()
