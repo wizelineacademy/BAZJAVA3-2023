@@ -12,6 +12,10 @@
         - [Para poder considerar completadas las semanas 5 y 6 de entrenamiento debe contemplar lo siguiente:](#para-poder-considerar-completadas-las-semanas-5-y-6-de-entrenamiento-debe-contemplar-lo-siguiente)
         - [Criterio de Evaluación](#criterio-de-evaluaci%C3%B3n)
 
+# Espacio de trabajo
+
+Primero acepta la siguienta asignación de github classroom para poder trabajar en el repositorio generado pues es allí donde realizarás tu entrega.
+
 # Definición del Proyecto
 El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando los siguientes periodos:
   - Entregable 1 - Semanas 1 y 2
@@ -42,7 +46,7 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | **Tópico**                                                                                                                          | **Puntaje** |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Screenshots para el flujo commit y push: `git status`, `git branch`, `git add`, `git commit` y `git push`                           | 10          |
-| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `<Nombre_Alumno>`      | 10          |
+| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `entregable_1`      | 10          |
 | Dockerfile ejecutable                                                                                                               | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
 | Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una captura de pantalla mostrando las variables de ambiente o a nivel de colección                                                                                                                             | 10          |
