@@ -14,15 +14,15 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 27 Ene]()
 
 # Semana 2
-- [Lunes 30 Ene - Kafka]()
+- [Lunes 30 Ene - Kafka](https://drive.google.com/file/d/1IdKc9LZvsA8FrfcZZcM250lCXhB96L8J/view?usp=share_link)
 - 📺 [Grabación Lunes 30 Ene]()
-- [Martes 31 Ene - Kafka II]()
+- [Martes 31 Ene - Kafka II](https://drive.google.com/file/d/1IdKc9LZvsA8FrfcZZcM250lCXhB96L8J/view?usp=share_link)
 - 📺 [Grabación Martes 31 Ene]()
-- [Miércoles 1 Feb - MongoDB I]()
+- [Miércoles 1 Feb - MongoDB I](https://drive.google.com/file/d/1yAUGb8HCQ_FfKKcpneyxVDTTF3KmcWNG/view?usp=share_link)
 - 📺 [Grabación Miércoles 1 Feb]()
-- [Jueves 2 Feb - MongoDB II]()
+- [Jueves 2 Feb - MongoDB II](https://drive.google.com/file/d/1nQir6fTVH27hnQKit7qS18gAPn_wcHGy/view?usp=share_link)
 - 📺 [Grabación Jueves 2 Feb]()
-- [Viernes 3 Feb - MongoDB III]()
+- [Viernes 3 Feb - MongoDB III](https://drive.google.com/file/d/1S1wIGMLDAuaWHPl4a8B8CXQKEvG-AYt1/view?usp=share_link)
 - 📺 [Grabación Viernes 3 Feb]()
 
 # Semana 3
