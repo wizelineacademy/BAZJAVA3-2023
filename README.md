@@ -68,7 +68,7 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    4. [Serverless](Semana%201/Serverless/README.md)
 
 ### Semana 2 - Fundamentos
-   1. [Kafka](https://github.com/wizelineacademy/BAZJAVA3-2023/tree/main/Semana%202/Kafka)
+   1. [Kafka](https://github.com/wizelineacademy/BAZJAVA3-2023/tree/main/Semana%202/Kafka) 
    2. [MongoDB](Semana%202/MongoDB/README.md)
 
 ### Semana 3 - Java
