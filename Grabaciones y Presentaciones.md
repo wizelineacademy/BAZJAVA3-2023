@@ -9,7 +9,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 25 Ene - RestAPIS](https://drive.google.com/file/d/1lCDQF0MhQf8ezQn_Ylea7ES1uTQb3RwM/view?usp=sharing)
 - 📺 [Grabación Miércoles 25 Ene](https://drive.google.com/file/d/1VNEnR2bf3FE1PggY3W8ll_hKOgNQZhn2/view?usp=sharing)
 - [Jueves 26 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
-- 📺 [Grabación Jueves 26 Ene]()
+- 📺 [Grabación Jueves 26 Ene](https://drive.google.com/file/d/1bu-qMZ2Nhq2ODQ3uLXq_3ulIUWvD3dls/view?usp=share_link)
 - [Viernes 27 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
 - 📺 [Grabación Viernes 27 Ene]()
 
