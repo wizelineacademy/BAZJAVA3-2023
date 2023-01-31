@@ -11,7 +11,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 26 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
 - 📺 [Grabación Jueves 26 Ene](https://drive.google.com/file/d/1bu-qMZ2Nhq2ODQ3uLXq_3ulIUWvD3dls/view?usp=share_link)
 - [Viernes 27 Ene - Serverless](https://drive.google.com/file/d/1KnjHnUBt7gEDJRWVAdlRljqhS97fMsNi/view?usp=share_link)
-- 📺 [Grabación Viernes 27 Ene]()
+- 📺 [Grabación Viernes 27 Ene](https://drive.google.com/file/d/1_pJEhs39s540QNfcBaNsKCjPkr5PurRj/view?usp=share_link)
 
 # Semana 2
 - [Lunes 30 Ene - Kafka](https://drive.google.com/file/d/1IdKc9LZvsA8FrfcZZcM250lCXhB96L8J/view?usp=share_link)
