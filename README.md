@@ -148,7 +148,7 @@ Recuerda llenar el **https://forms.gle/fhoe2qqHmCG1BbsQA** al final de tu mentor
 | 1043711     |  OMAR SALAZAR PÉREZ                 | [Óscar Balandrán](https://calendly.com/oscar-balandran/baz-mentoria-1-1)| [Óscar Balandrán](https://github.com/oscar-balandran)|
 | 10039443    |  RICARDO AXEL DIAZ                  | [Óscar Balandrán](https://calendly.com/oscar-balandran/baz-mentoria-1-1)| [Óscar Balandrán](https://github.com/oscar-balandran)|
 | 961121      |  SARAI SANCHEZ VARGAS               | [José Perea](https://calendly.com/jose-vazquez-wizeline/mentoria-baz)| [José Perea]()        |
-| 965845      |  JOSE MANUEL GARNICA BENITEZ        |     |
+| 965845      |  JOSE MANUEL GARNICA BENITEZ        | [José Perea](https://calendly.com/jose-vazquez-wizeline/mentoria-baz)| [José Perea]()       |
 | 916439      |  EMMANUEL VARGAS GONZALEZ           | [Pao Pileño](https://calendly.com/paola-pileno/baz-mentoria-1-1)| [Pao Pileño](https://github.com/paopileno)|
 | 1040089     |  VIRIDIANA AVILES ALBINO            | [Pao Pileño](https://calendly.com/paola-pileno/baz-mentoria-1-1)| [Pao Pileño](https://github.com/paopileno)|
 | 86927       |  EDWARD HERNANDEZ SANTIAGO          | [Luis Montes](https://calendly.com/luis-montesg/baz-mentoria-1-1)| [Luis Montes](https://github.com/LuisMG96)|
