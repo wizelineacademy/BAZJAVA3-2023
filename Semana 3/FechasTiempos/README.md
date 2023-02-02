@@ -19,8 +19,8 @@
       private AccountType accountType;
       private String country;
       private boolean accountActive;
-      private LocalDateTime creationDate; // <- Cambiar a tipo de dato LocalDateTime
-      private LocalDateTime lastUsage; // <- Crear nueva propiedad
+      private LocalDateTime lastUsage; // <- Cambiar a tipo de dato LocalDateTime
+      private LocalDateTime creationDate; // <- Crear nueva propiedad
     }
     ``` 
     > Recuerda generar los getters y setters correspondientes a cada propiedad. En el método _getLastUsage()_ generar el valor actual de la fecha. (LocalDateTime.now();) 
