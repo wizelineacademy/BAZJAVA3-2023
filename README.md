@@ -26,7 +26,8 @@ Bienvenido a tu capacitación de **Microservicios en Java/Spring Boot con JUnit.
 Es importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 Calendario JAVA Bloque 3 <br>
-<img width="520" alt="Calendario JAVA Bloque 3" src="https://user-images.githubusercontent.com/94467952/214111103-a815d183-ae96-4e20-a24a-f4ff18f0b0ec.png">
+<img width="520" alt="Calendario JAVA Bloque 3" src="https://user-images.githubusercontent.com/94467952/216448898-35650abc-bbb6-42be-8c1c-ed54493cf5b2.png">
+
 
 En este calendario encontrarás las sesiones que están agendadas durante este curso.
 
