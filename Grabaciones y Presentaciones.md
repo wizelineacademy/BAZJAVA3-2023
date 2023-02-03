@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 1 Feb - MongoDB I](https://drive.google.com/file/d/1yAUGb8HCQ_FfKKcpneyxVDTTF3KmcWNG/view?usp=share_link)
 - 📺 [Grabación Miércoles 1 Feb](https://drive.google.com/file/d/1C6cjXr_736Croz-I_xnkTO7AHT8cD96M/view?usp=sharing)
 - [Jueves 2 Feb - MongoDB II](https://drive.google.com/file/d/1nQir6fTVH27hnQKit7qS18gAPn_wcHGy/view?usp=share_link)
-- 📺 [Grabación Jueves 2 Feb]()
+- 📺 [Grabación Jueves 2 Feb](https://drive.google.com/file/d/12rMmyLJ_Dogjp3I5r3KTUplQrbqeekgi/view?usp=sharing)
 - [Viernes 3 Feb - MongoDB III](https://drive.google.com/file/d/1S1wIGMLDAuaWHPl4a8B8CXQKEvG-AYt1/view?usp=share_link)
 - 📺 [Grabación Viernes 3 Feb]()
 
