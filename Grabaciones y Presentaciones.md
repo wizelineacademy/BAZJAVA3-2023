@@ -23,7 +23,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 2 Feb - MongoDB II](https://drive.google.com/file/d/1nQir6fTVH27hnQKit7qS18gAPn_wcHGy/view?usp=share_link)
 - 📺 [Grabación Jueves 2 Feb](https://drive.google.com/file/d/12rMmyLJ_Dogjp3I5r3KTUplQrbqeekgi/view?usp=sharing)
 - [Viernes 3 Feb - MongoDB III](https://drive.google.com/file/d/1S1wIGMLDAuaWHPl4a8B8CXQKEvG-AYt1/view?usp=share_link)
-- 📺 [Grabación Viernes 3 Feb]()
+- 📺 [Grabación Viernes 3 Feb](https://drive.google.com/file/d/1W97vUqY2xqpKBAoti3wJfMStFIQu0ui8/view?usp=sharing)
 
 # Semana 3
 - [Martes 7 Feb - Java I]()
