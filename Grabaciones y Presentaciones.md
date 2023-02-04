@@ -26,13 +26,13 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 3 Feb](https://drive.google.com/file/d/1W97vUqY2xqpKBAoti3wJfMStFIQu0ui8/view?usp=sharing)
 
 # Semana 3
-- [Martes 7 Feb - Java I]()
-- 📺 [Grabación Martes 7 Feb t]()
-- [Miércoles 8 Feb - Java II]()
+- [Martes 7 Feb - Java I](https://drive.google.com/file/d/1CpuRG-Oxtf2K7m0Nu0R90Xee2i6If3rs/view?usp=share_link)
+- 📺 [Grabación Martes 7 Feb]()
+- [Miércoles 8 Feb - Java II](https://drive.google.com/file/d/1X0wEXlbqgwZJeRpguLYFkvNnwVrkjJQV/view?usp=share_link)
 - 📺 [Miércoles 8 Feb]()
-- [Jueves 9 Feb - Java III]()
+- [Jueves 9 Feb - Java III](https://drive.google.com/file/d/16k1UE22zN1_cpzYo62R8GorTRjDtZfgV/view?usp=share_link)
 - 📺 [Grabación Jueves 9 Feb]()
--  [Viernes 10 Feb - Java IV]()
+-  [Viernes 10 Feb - Java IV](https://drive.google.com/file/d/1x7vV11xlxhfWVIfe764GiAKfU6kb95hq/view?usp=sharing)
 - 📺 [Grabación Viernes 10 Feb]()
 
 # Semana 4
