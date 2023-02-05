@@ -28,9 +28,9 @@ Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección 
 
 # Entregables
 ## Fechas de Entrega
- - Entregable 1: viernes 3 de febrero - 6:00pm
- - Entregable 2: viernes 17 de febrero - 6:00pm
- - Entregable 3: jueves 2 marzo - 6:00pm
+ - Entregable 1: lunes 6 de febrero - 6:00pm
+ - Entregable 2: lunes 20 de febrero - 6:00pm
+ - Entregable 3: lunes 6 de marzo - 6:00pm
 
 ## Entregable 1
 
