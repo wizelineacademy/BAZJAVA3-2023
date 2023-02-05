@@ -21,8 +21,8 @@ Primero acepta la siguienta asignación de github classroom para poder trabajar 
 # Definición del Proyecto
 El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando los siguientes periodos:
   - Entregable 1 - Semanas 1 y 2
-  - Entregable 2 - Semanas 3, 4 y 5
-  - Entregable 3 - Semana 6 
+  - Entregable 2 - Semanas 3 y 4
+  - Entregable 3 - Semanas 5 y 6
 
 Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Pull Request` a través del siguiente [formulario](https://forms.gle/ZDxTBoARei38EQE59), lo que nos indicará que está listo tu entregable para revisión.
 
