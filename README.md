@@ -13,7 +13,7 @@
         - [Semana 5 - Spring Boot](#semana-5---spring-boot)
         - [Semana 6 - JUnit](#semana-6---junit)
     - [📺 Grabaciones sesiones y Presentaciones](#-grabaciones-sesiones-y-presentaciones)
-- [IV. Proyecto Final Capstone Project](#iv-proyecto-final-capstone-project)
+- [IV. Proyecto Final (Capstone Project)](#iv-proyecto-final-capstone-project)
 - [V. Agenda tu mentoria 📆](#v-agenda-tu-mentoria-)
 - [VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL Asignado por Líder de Gremio](#vi-proyecto-baz-superapp--banca-digital-asignado-por-l%C3%ADder-de-gremio)
 - [VII. Contacto Wizeline Academy](#vii-contacto-wizeline-academy)
