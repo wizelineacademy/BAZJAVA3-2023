@@ -48,7 +48,7 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | **Tópico**                                                                                                                          | **Puntaje** |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Screenshots para el flujo commit y push: `git status`, `git branch`, `git add`, `git commit` y `git push`                           | 10          |
-| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `entregable_1`      | 10          |
+| Pull Request para el `Entregable 1`                                   y archivo `README.md` en el directorio `entregable_1`         | 10          |
 | Dockerfile ejecutable                                                                                                               | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
 | Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una captura de pantalla mostrando las variables de ambiente o a nivel de colección                                                                                                                             | 10          |
