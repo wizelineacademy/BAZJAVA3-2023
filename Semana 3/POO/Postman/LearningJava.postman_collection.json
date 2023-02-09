@@ -27,7 +27,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"user\":\"user1@wizeline.com\",\n    \"password\":\"pass1\"\n}",
+					"raw": "",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -35,7 +35,7 @@
 					}
 				},
 				"url": {
-					"raw": "localhost:8080/api/createUser",
+					"raw": "localhost:8080/api/createUser?user=user1@wizeline.com&password=pass1",
 					"host": [
 						"localhost"
 					],
@@ -43,6 +43,16 @@
 					"path": [
 						"api",
 						"createUser"
+					],
+					"query": [
+						{
+							"key": "user",
+							"value": "user1@wizeline.com"
+						},
+						{
+							"key": "password",
+							"value": "pass1"
+						}
 					]
 				}
 			},
