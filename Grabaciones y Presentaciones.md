@@ -31,9 +31,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 8 Feb - Java II](https://drive.google.com/file/d/1taZ4vBuh_kDXrPdINdqSjT5bVqCWbMJ2/view?usp=sharing)
 - 📺 [Miércoles 8 Feb](https://drive.google.com/file/d/1vmTaQCxl3y2yRkDVOcx995VuG3g2Jfzn/view?usp=sharing)
 - [Jueves 9 Feb - Java III](https://drive.google.com/file/d/15-bzix1BLrBlpv8I_zo7rf2IwU7hcQPT/view?usp=sharing)
-- 📺 [Grabación Jueves 9 Feb]()
+- 📺 [Grabación Jueves 9 Feb](https://drive.google.com/file/d/1Dk1Gk5cbwboPcaCxM0OAIenRO2tOnLbE/view?usp=sharing)
 -  [Viernes 10 Feb - Java IV](https://drive.google.com/file/d/1x7vV11xlxhfWVIfe764GiAKfU6kb95hq/view?usp=sharing)
-- 📺 [Grabación Viernes 10 Feb]()
+- 📺 [Grabación Viernes 10 Feb](https://drive.google.com/file/d/1DuGbgkRk5I0e9KMbGpv3_4R91edJAP-L/view?usp=share_link)
 
 # Semana 4
 - [Lunes 13 Feb - Spring Boot I Configuración inicial]()
