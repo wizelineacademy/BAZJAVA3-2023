@@ -92,7 +92,7 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
   - com.wizeline.service (Este paquete sustituye al paquete BO)
   - com.wizeline.repository (Este paquete sustituye al paquete DAO)
   - com.wizeline.model (Este paquete sustituye al paquete DTO)
-  - com.wizeline.enum
+  - com.wizeline.enums
   - com.wizeline.utils
   - com.wizeline.utils.exceptions
 
