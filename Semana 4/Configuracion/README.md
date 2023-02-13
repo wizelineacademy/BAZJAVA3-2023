@@ -62,7 +62,7 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 
 ### A continuación, se listaran los pasos para a seguir para la actividad de este módulo.
 
-1 . Comenzamos creando un proyecto Spring Boot de tipo Maven, con Java 11 y versión 2.7.3. Para ello lo haremos desde el portal de [Spring Initializr](https://start.spring.io/)
+1 . Comenzamos creando un proyecto Spring Boot de tipo Maven, con Java 11 y versión 2.7.*. Para ello lo haremos desde el portal de [Spring Initializr](https://start.spring.io/)
 
 ![Alt text](./Images/1.SpringInitializr.png "Creación de Proyecto")
 
