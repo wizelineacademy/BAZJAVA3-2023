@@ -47,9 +47,9 @@ Consumo de los valores de los properties files en un Componente
 
 Función e implementación de un Componente y de un Bean de una Clase Servicio en LearningJavaApplication
 
-### Uso de la anotacion Validated
+### Uso de la anotacion Validated/Autowired/Component
 
-Para fijar constraints a nivel de grupo/clase
+Para fijar constraints a nivel de grupo/clase e inicializar componentes de Spring
 
 
 ## Practica
@@ -70,7 +70,7 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 . En este caso el objeto es uno de tipo UserService. Este tiene que ser inyectado antes de nuestra funcion main de
 LearningJavaApplication.Java
 
-``` bash
+``` java
 @Bean
 public static UserService userService() {
     return new UserServiceImpl();
@@ -82,7 +82,7 @@ public static UserService userService() {
 
 La clase se definiria como lo siguiente:
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.config;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
@@ -154,7 +154,7 @@ public class EndpointBean {
 definidos en la clase de EndpointBean consuman lo que se tiene en el application.yml. Para ello, definamos dos archivos en la carpeta de resources
 llamados application.yml y application-dev.yml cada uno teniendo el siguiente contenido:
 
-``` bash
+``` java
 consumers:
   login: '/api/login'
   createUser: '/api/createUser'
@@ -166,14 +166,14 @@ consumers:
 
 5. Definamos el Autowiring en LearningJavaApplication.java
 
-``` bash
+``` java
 @Autowired
 private EndpointBean endpointBean;
 ```
 
 6. Al final nuestro LearningJavaApplication.java debe lucir de la siguiente forma:
 
-``` bash
+``` java
 @SpringBootApplication
 public class LearningJavaApplication extends Thread {
 
