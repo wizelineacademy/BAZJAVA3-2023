@@ -92,7 +92,7 @@ import org.springframework.validation.annotation.Validated;
 @Component
 @Validated
 @ConfigurationProperties(prefix = "consumers")
-public class EndpointBean {
+public class EndpointBean implements Serializable {
 	@NotNull
 	@NotBlank
 	private String login;
