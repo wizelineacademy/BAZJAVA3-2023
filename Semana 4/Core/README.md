@@ -57,12 +57,17 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 
 ### A continuación, se listaran los pasos para a seguir para la actividad de este módulo.
 
-1. Necesitamos agregar la siguiente dependencia de Maven para el ejercicio del día de hoy
+1. Necesitamos agregar las siguientes dependencias de Maven para el ejercicio del día de hoy
 ``` xml
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-validation</artifactId>
 		<version>2.7.4</version>
+	</dependency>
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-configuration-processor</artifactId>
+		<optional>true</optional>
 	</dependency>
 ```
 
