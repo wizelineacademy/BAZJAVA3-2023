@@ -152,8 +152,18 @@ public class EndpointBean {
 
 4. La anotacion de ConfigurationProperties en dicha clase tratara de buscar en application.yml el property de consumers y que los atributos
 definidos en la clase de EndpointBean consuman lo que se tiene en el application.yml. Para ello, definamos dos archivos en la carpeta de resources
-llamados application.yml y application-dev.yml cada uno teniendo el siguiente contenido:
+llamados **application.yml** y **application-dev.yml** cada uno teniendo el siguiente contenido:
 
+**application.yml**
+``` java
+spring:
+  application:
+    name: LearningJava
+  profiles:
+    include: dev
+```
+
+**application-dev.yml**
 ``` java
 consumers:
   login: '/api/login'
