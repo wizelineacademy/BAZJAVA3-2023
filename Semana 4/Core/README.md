@@ -57,7 +57,16 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 
 ### A continuación, se listaran los pasos para a seguir para la actividad de este módulo.
 
-1. Lo primero que tenemos que hacer es definir el bean de servicio (el objeto que es manejado a traves del contenedor de Spring IoC)
+1. Necesitamos agregar la siguiente dependencia de Maven para el ejercicio del día de hoy
+``` xml
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-validation</artifactId>
+		<version>2.7.4</version>
+	</dependency>
+```
+
+2. Necesitamos definir el bean de servicio (el objeto que es manejado a traves del contenedor de Spring IoC)
 . En este caso el objeto es uno de tipo UserService. Este tiene que ser inyectado antes de nuestra funcion main de
 LearningJavaApplication.Java
 
@@ -68,7 +77,7 @@ public static UserService userService() {
 }
 ```
 
-2. Asimismo vamos a crear una clase llamada EndpointBean que se encuentre dentro de un nuevo paquete com.wizeline.maven.learningjava.config
+3. Asimismo vamos a crear una clase llamada EndpointBean que se encuentre dentro de un nuevo paquete com.wizeline.maven.learningjava.config
 (Noten que el paquete com.wizeline.maven.learningjava ya existe por lo que solo bastaria crear un Package llamado config dentro de com.wizeline.maven.learningjava)
 
 La clase se definiria como lo siguiente:
@@ -141,7 +150,7 @@ public class EndpointBean {
 }
 ```
 
-3. La anotacion de ConfigurationProperties en dicha clase tratara de buscar en application.yml el property de consumers y que los atributos
+4. La anotacion de ConfigurationProperties en dicha clase tratara de buscar en application.yml el property de consumers y que los atributos
 definidos en la clase de EndpointBean consuman lo que se tiene en el application.yml. Para ello, definamos dos archivos en la carpeta de resources
 llamados application.yml y application-dev.yml cada uno teniendo el siguiente contenido:
 
@@ -155,14 +164,14 @@ consumers:
   accountsGroupByType: '/api/getAccountsGroupByType'
 ```
 
-4. Definamos el Autowiring en LearningJavaApplication.java
+5. Definamos el Autowiring en LearningJavaApplication.java
 
 ``` bash
 @Autowired
 private EndpointBean endpointBean;
 ```
 
-5. Al final nuestro LearningJavaApplication.java debe lucir de la siguiente forma:
+6. Al final nuestro LearningJavaApplication.java debe lucir de la siguiente forma:
 
 ``` bash
 @SpringBootApplication
@@ -531,7 +540,7 @@ public class LearningJavaApplication extends Thread {
 }
 ```
 
-6. A continuación, ejecutemos el proyecto y hagamos una prueba con los siguientes request:
+7. A continuación, ejecutemos el proyecto y hagamos una prueba con los siguientes request:
 
 
 * [LearningJavaSpring.postman_collection.json](./Postman/LearningJava.postman_collection.json)
