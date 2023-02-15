@@ -48,15 +48,20 @@ Implementación de un servicio MVC, que maneje las capas Controller, Service y R
 
 1 . Vamos a cambiar nuestro servicio LearningJava a un servicio MVC de tipo Rest. Comenzamos agregando las siguientes dependencias:
 
-``` bash
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-rest</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
+```xml		
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+<dependency>
+	<groupId>com.h2database</groupId>
+	<artifactId>h2</artifactId>
+	<scope>runtime</scope>
+</dependency>
 ```
 
 Estas dependencias nos permiten habilitar el servicio REST al usar la anotación @RestController.
@@ -78,7 +83,7 @@ Como puedes ver vamos a implementar la anotación @RestController. Esta nos perm
 ![Alt text](./Images/4.Repository.png "Anotación @Repository")
 
 
-5. Ya contamos con nuestra con la capa de Service y Repository, comenzomos con la inyección de nuestro service a nivel controller, esto para poder acceder a sus metodos:
+5. Ya contamos con la capa de Service y Repository, comenzamos con la inyección de nuestro service a nivel controller, esto para poder acceder a sus metodos:
 
 ![Alt text](./Images/5.AutowiredController.png "Autowired Controller")
 
