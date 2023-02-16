@@ -63,18 +63,21 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 
 3. La primera modificacion debe ser sobre el archivo pom.xml, agregando la siguiente dependencias
 
-``` bash
+``` xml
 <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-mongodb</artifactId>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-data-mongodb</artifactId>
 </dependency>
 ```
 
-4. Sobre la clase BankAccountDTO vamos agregar la siguiente annotation (arriba de la definicion de la clase), la cual basicamente dice que manejaremos un "Documento" en donde el nombre de la coleccion se llamara bankAccountCollection:
+4. Sobre la clase BankAccountDTO vamos agregar las siguientes annotationes, una arriba de la definicion de la clase, la cual basicamente dice que manejaremos un "Documento" en donde el nombre de la coleccion se llamara bankAccountCollection, y otra a nivel de la propiedad accountNumber que indicará que es el id de nuestra colección:
 
-``` bash
+``` java
 @Document("bankAccountCollection")
 public class BankAccountDTO {
+
+    @Id
+    private Long accountNumber;
 ...
 }
 ```
@@ -85,8 +88,7 @@ debajo del package com.wizeline.maven.learningjava.Repository
 
 6. El cuerpo de BankingAccountRepository debera de contener lo siguiente
 
-``` bash
-
+``` java
 package com.wizeline.maven.learningjava.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
@@ -94,10 +96,7 @@ import org.springframework.stereotype.Repository;
 
 import com.wizeline.maven.learningjava.model.BankAccountDTO;
 
-/**
- * Class Description goes here.
- * Created by enrique.gutierrez on 27/09/22
- */
+
 @Repository
 public interface BankingAccountRepository extends MongoRepository<BankAccountDTO, Long> {
 }
@@ -106,14 +105,13 @@ public interface BankingAccountRepository extends MongoRepository<BankAccountDTO
 7. Dentro de la clase BankAccountServiceImpl debemos de definir dos Autowired. Uno resolvera el Dependency Injection
 para BankingAccountRepository y el otro para MongoTemplate
 
-``` bash
+``` java
 
-@Autowired
-    BankingAccountRepository bankAccountRepository;
+	@Autowired
+    	BankingAccountRepository bankAccountRepository;
 
-    @Autowired
-    MongoTemplate mongoTemplate;
-
+	@Autowired
+	MongoTemplate mongoTemplate;
 ```
 
 8. El metodo de getAccounts() dentro de la clase BankAccountServiceImpl debe ser modificado para que pueda hacer las operaciones
@@ -121,7 +119,7 @@ de salvar en la db, asi de encontrar todos los records existentes en la coleccio
 
 Asi debe quedar el cuerpo de la clase:
 
-``` bash
+``` java
 @Override
 public List<BankAccountDTO> getAccounts() {
     // Definicion de lista con la informacion de las cuentas existentes.
@@ -161,7 +159,7 @@ public List<BankAccountDTO> getAccounts() {
 9.  Agregaremos un endpoint que permita borrar todos los records de Mongo DB existentes. Esto involucra
 cambios en las capas de Controlador y Servicio. Para la clase BankAccountService debemos de incluir lo siguiente:
 
-``` bash
+``` java
 
 void deleteAccounts();
 
@@ -169,7 +167,7 @@ void deleteAccounts();
 
 En BankAccountServiceImpl debemos de implementar dicha funcion
 
-``` bash
+``` java
 
 @Override
 public void deleteAccounts() {
@@ -181,20 +179,20 @@ public void deleteAccounts() {
 
 Del lado del Controlador, busquemos la clase BankingAccountController e implementemos lo siguiente:
 
-``` bash
+``` java
 
 @DeleteMapping("/deleteAccounts")
-   public ResponseEntity<String> deleteAccounts() {
-       bankAccountService.deleteAccounts();
-       return new ResponseEntity<>("All accounts deleted", HttpStatus.OK);
-   }
+public ResponseEntity<String> deleteAccounts() {
+	bankAccountService.deleteAccounts();
+	return new ResponseEntity<>("All accounts deleted", HttpStatus.OK);
+}
 
 ```
 
 10. Agreguemos un endpoint mas para mostrar la funcionalidad de hacer un query a traves de la API de MongoTemplate.
 Modifiquemos BankAccountService agregando el siguiente snippet
 
-``` bash
+``` java
 
 List<BankAccountDTO> getAccountByUser(String user);
 
@@ -202,24 +200,24 @@ List<BankAccountDTO> getAccountByUser(String user);
 
 11. Implementemos el metodo en la clase BankAccountServiceImpl
 
-``` bash
+``` java
 @Override
-   public List<BankAccountDTO> getAccountByUser(String user) {
-       //Buscamos todos aquellos registros de tipo BankAccountDTO
-       //que cumplen con la criteria de que el userName haga match
-       //con la variable user
-       Query query = new Query();
-       query.addCriteria(Criteria.where("userName").is(user));
-       return mongoTemplate.find(query, BankAccountDTO.class);
-   }
+public List<BankAccountDTO> getAccountByUser(String user) {
+	//Buscamos todos aquellos registros de tipo BankAccountDTO
+	//que cumplen con la criteria de que el userName haga match
+	//con la variable user
+	Query query = new Query();
+	query.addCriteria(Criteria.where("userName").is(user));
+	return mongoTemplate.find(query, BankAccountDTO.class);
+}
 ```
 
 12. Invocaremos el metodo definido en la capa de servicio dentro del Controlador BankingAccountController e igual la logica
 en donde solo obtenemos el registro de un solo usuario que se defina en el request.
 
-``` bash
+``` java
 @GetMapping("/getAccountByUser")
-   public ResponseEntity<List<BankAccountDTO>> getAccountByUser(@RequestParam String user) {
+public ResponseEntity<List<BankAccountDTO>> getAccountByUser(@RequestParam String user) {
        LOGGER.info(msgProcPeticion);
        Instant inicioDeEjecucion = Instant.now();
        LOGGER.info("LearningJava - Procesando peticion HTTP de tipo GET");
@@ -234,7 +232,7 @@ en donde solo obtenemos el registro de un solo usuario que se defina en el reque
        HttpHeaders responseHeaders = new HttpHeaders();
        responseHeaders.set("Content-Type", "application/json; charset=UTF-8");
        return new ResponseEntity<>(accounts, responseHeaders, HttpStatus.OK);
-   }
+}
 ```
 
 13. Descargamos mongodb y mongsh, e instalamos acorde a las instrucciones a traves de la siguiente liga:
