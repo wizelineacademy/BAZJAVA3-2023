@@ -22,6 +22,12 @@
     ```java
    public class JwtTokenConfig {
    
+   private static final Logger LOGGER = LoggerFactory.getLogger(JwtTokenConfig.class);
+
+
+   @Value("${jwt.secret}")
+   private String secret;
+   
    /**
      * Este método genera el token de autenticación.
      * @param userDTO Información del usuario autenticado.
