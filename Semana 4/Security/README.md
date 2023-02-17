@@ -103,9 +103,14 @@
 4. Lo siguiente sera generar un filtro que se ejecutara en cada request, la función de este filtro sera .
    obtener el token enviado por el usuario durante un request. 
    ```java
+       @Component
        public class JwtTokenFilter extends OncePerRequestFilter {
 
-       // Inyectar dependencias
+       @Autowired
+       private JwtTokenConfig jwtTokenConfig;
+
+       @Value("${jwt.secret}")
+       private String secret;
 
        private final String HEADER = "Authorization";
 
