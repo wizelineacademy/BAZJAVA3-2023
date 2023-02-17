@@ -48,15 +48,15 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 17 Feb]()
 
 # Semana 5
-- [Lunes 20 Feb - Spring Batch]()
+- [Lunes 20 Feb - Spring Batch](https://drive.google.com/file/d/193-5idZoZLPtFqASxqtzpsdPFkTk85jU/view?usp=share_link)
 - 📺 [Grabación Lunes 20 Feb]()
-- [Martes 21 Feb - Spring Boot Integraciones]()
+- [Martes 21 Feb - Spring Boot Integraciones](https://drive.google.com/file/d/19ob0mCN931EprgopcSxFKRSfzHdzQ6w9/view?usp=share_link)
 - 📺 [Grabación Martes 21 Feb]()
-- [Miércoles 22 Feb - Design Patterns I]()
+- [Miércoles 22 Feb - Design Patterns I](https://drive.google.com/file/d/1S3UGXHT-f7X7V8r5SO54VJTscdldjW7m/view?usp=share_link)
 - 📺 [Grabación Miércoles 22 Feb]()
-- [Jueves 23 Feb - Design Patterns II]()
+- [Jueves 23 Feb - Design Patterns II](https://drive.google.com/file/d/1erQLqdwcFyVzlP07RztgFmr3cs7TYw-S/view?usp=share_link)
 - 📺 [Grabación Jueves 23 Feb]()
--  [Viernes 24 Feb - Design Patterns III]()
+-  [Viernes 24 Feb - Design Patterns III](https://drive.google.com/file/d/1aDlADi6E6M1H4jaQ423XRc-1x_faZzg2/view?usp=sharing)
 - 📺 [Grabación Viernes 24 Feb]()
 
 # Semana 6
