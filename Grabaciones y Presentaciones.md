@@ -37,13 +37,13 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 4
 - [Lunes 13 Feb - Spring Boot I Configuración inicial](https://drive.google.com/file/d/1UsmE88UUePXJoxvctCtAPzTITVVL-Rfp/view?usp=sharing)
-- 📺 [Grabación Lunes 13 Feb]()
+- 📺 [Grabación Lunes 13 Feb](https://drive.google.com/file/d/1t18-R1CxXEY2IbGzZ4JaNxygGmgajokZ/view?usp=sharing)
 - [Martes 14 Feb - Spring Boot II Java Spring Core I](https://drive.google.com/file/d/1DovOyJTc373rFphmnEfcOTHvX-GmHV2o/view?usp=sharing)
-- 📺 [Grabación Martes 14 Feb]()
+- 📺 [Grabación Martes 14 Feb](https://drive.google.com/file/d/12eW0QIsJ9l2v25Y6RqeEHgscle-kgRiT/view?usp=sharing)
 - [Miércoles 15 Feb - Spring Boot III Spring MVC I](https://drive.google.com/file/d/1D4NUOQQdh5YfSjK-LnE7mHWXEKGBUNS9/view?usp=share_link)
-- 📺 [Grabación Miércoles 15 Feb]()
+- 📺 [Grabación Miércoles 15 Feb](https://drive.google.com/file/d/1FSxGP0Jx-8_qunkGkV26y0Z4RqNdpuK8/view?usp=share_link)
 - [Jueves 16 Feb - Spring Boot IV Spring Data](https://drive.google.com/file/d/1kZki-_tENKVmroFGTR42n_4IcwYNmCBb/view?usp=sharing)
-- 📺 [Grabación Jueves 16 Feb]()
+- 📺 [Grabación Jueves 16 Feb](https://drive.google.com/file/d/1c8Tz-OBaofkfBbYIYGxUxxjvpbT2abQv/view?usp=share_link)
 -  [Viernes 17 Feb - Spring Boot V Spring Security & Actuators](https://drive.google.com/file/d/1iomPdyGYuld2ZX6Qi6tPAmwblH3B-Com/view?usp=sharing)
 - 📺 [Grabación Viernes 17 Feb]()
 
