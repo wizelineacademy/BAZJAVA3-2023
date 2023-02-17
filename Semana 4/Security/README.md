@@ -20,6 +20,7 @@
       En el apartado de recursos se proporciona documentación para su mejor entendimiento.
 2. Generar clase de configuración de _JWT_ con los métodos para generar y validar el token de autenticación.
     ```java
+   @Component
    public class JwtTokenConfig {
    
    private static final Logger LOGGER = LoggerFactory.getLogger(JwtTokenConfig.class);
