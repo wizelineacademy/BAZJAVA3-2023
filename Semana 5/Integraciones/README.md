@@ -61,38 +61,34 @@ La practica y ejercicios las podemos encontrar en el directorio de learningjava
 
 ### A continuación, se listaran los pasos para a seguir para la actividad de este módulo.
 
-1. Comenzamos con descargar/clonar lo que tengamos en el repositorio https://github.com/wizelineacademy/BAZJAVA12022 y nos vamos a la carpeta de (.5/JPA/LearningJava), que es el mismo ejercicio del SpringBootApplication dia 4 (JPA)
+1. La primera modificacion debe ser sobre el archivo pom.xml, agregando el siguiente snippet que define el dependencyManagement
 
-2. Desde IntelliJ importamos el proyecto maven, abriendo el pom.xml que se ubica bajo la carpeta de LearningJava)
-
-3. La primera modificacion debe ser sobre el archivo pom.xml, agregando el siguiente snippet que define el dependencyManagement
-
-``` bash
+``` xml
 <dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>org.springframework.cloud</groupId>
-				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>2021.0.3</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-dependencies</artifactId>
+			<version>2021.0.3</version>
+			<type>pom</type>
+			<scope>import</scope>
+		</dependency>
+	</dependencies>
+</dependencyManagement>
 ```
 
 Asimismo agregamos la siguiente dependencia:
 
-``` bash
+``` xml
 <dependency>
-		<groupId>org.springframework.cloud</groupId>
-		<artifactId>spring-cloud-starter-openfeign</artifactId>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-openfeign</artifactId>
 </dependency>
 ```
 
 (Nota: hay que agregar la anotacion EnableFeignclients en SpringBootApplication)
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava;
 
 import java.io.IOException;
@@ -116,7 +112,7 @@ public class LearningJavaApplication {
 4. Vamos a crear una interfaz dentro de un paquete que llamaremos com.wizeline.maven.learningjava.client llamada AccountsJSONClient la cual
 tendra el siguiente contenido
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
@@ -126,10 +122,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.wizeline.maven.learningjava.model.Post;
 
-/**
- * Class Description goes here.
- * Created by enrique.gutierrez on 28/09/22
- */
 @FeignClient(value="getAccountsClient", url="https://jsonplaceholder.typicode.com/")
 public interface AccountsJSONClient {
     @GetMapping(value = "/posts/{postId}", produces = "application/json")
@@ -141,13 +133,9 @@ para obtener un objeto tipo Post que ahorita mismo definiremos.
 
 Crearemos una clase Post dentro del package de model
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.model;
 
-/**
- * Class Description goes here.
- * Created by enrique.gutierrez on 28/09/22
- */
 public class Post {
     private String userId;
     private Long id;
@@ -191,8 +179,8 @@ public class Post {
 6. Ahora definiremos un endpoint en la clase de BankingAccountController que se encarge de usar el metodo
 que declaramos en la interfaz de FeignClient
 
-``` bash
-//The usage of FeignClient for demo purposes
+``` java
+	//The usage of FeignClient for demo purposes
 	 @GetMapping("/getExternalUser/{userId}")
 	 public ResponseEntity<Post> getExternalUser(@PathVariable Long userId) {
 
@@ -265,7 +253,7 @@ el contenedor, los request se ejecutan sin mayor problema.
 12. Ejecutemos el request http://localhost:8080/api/getExternalUser/1 desde Postman. Este hace uso del metodo definido en FeignClient.
 Deberia de obtenerse un status de 200 en la peticion y una respuesta similar a la siguiente:
 
-``` bash
+``` json
 {
     "userId": "External user <random number>",
     "id": 1,
@@ -275,10 +263,13 @@ Deberia de obtenerse un status de 200 en la peticion y una respuesta similar a l
 ```
 
 
-13. Ahora estudiaremos el uso de Ribbon, para el uso de load-balancing del lado del cliente. Pongamos la siguiente linea dentro del metodo getAccounts()
 
-``` bash
-@GetMapping("/getAccounts")
+### Manejo de Ribbon
+
+1. Ahora estudiaremos el uso de Ribbon, para el uso de load-balancing del lado del cliente. Pongamos la siguiente linea dentro del metodo getAccounts()
+
+``` java
+	@GetMapping("/getAccounts")
 	public ResponseEntity<List<BankAccountDTO>> getAccounts() {
 			LOGGER.info("The port used is "+ port);
 			....
@@ -286,47 +277,52 @@ Deberia de obtenerse un status de 200 en la peticion y una respuesta similar a l
 
 y dentro de la definicion de atributos dentro de la misma clase:
 
-``` bash
-@Value("${server.port}")
-    private String port;
+``` java
+	@Value("${server.port}")
+	private String port;
 ```
 
-14. Paremos el servicio de los dos contenedores que aparecen en el Docker Desktop. Hay un simbolo de "bote de basura" que podemos hacerle click para detenerlos.
+2. Paremos el servicio de los dos contenedores que aparecen en el Docker Desktop. Hay un simbolo de "bote de basura" que podemos hacerle click para detenerlos.
 
 
-15. Comentemos de nuevo la linea de application.properties (ya que apartir de ahora ejecutaremos la app de forma convencional):
+3. Comentemos de nuevo la linea de application.properties (ya que apartir de ahora ejecutaremos la app de forma convencional):
 
 ``` bash
 #spring.data.mongodb.host=host.docker.internal
 ```
 
-16. Corramos en tres instancias diferentes la aplicacion LearningJava. Una instancia debe correr en el puerto 8080, la otra en 8081, y la otra en 8082.
+4. Corramos en tres instancias diferentes la aplicacion LearningJava. Una instancia debe correr en el puerto 8080, la otra en 8081, y la otra en 8082.
 En IntelliJ hay una opcion en Run > Edit Configurations > Modify Options > Allow multiple instances. Hacemos la modificacion respectiva en application.properties
 en server.port asignandole por cada corrida su puerto correspondiente
 
-17. Corramos la aplicacion LoadBalancer que se encuentra en la carpeta (.5/RestTemplate)
+5. Ejecutemos la aplicacion LoadBalancer. Esta correra en el puerto 8989.
 
-18. Ejecutemos la aplicacion LoadBalancer. Esta correra en el puerto 8989. Ahora en Postman corramos el Request Load Balancer (http://localhost:8989/loadBalancingWithRibbon) y vemos que podemos obtener la informacion de cuentas de los usuarios. Solo que un request lo hara sobre el server con puerto
-8080, el otro request con el server del puerto 8081, y uno tercero sobre el server del puerto 8082. En los logs de cada instancia podemos ver la leyenda
+6. Ahora en Postman corramos el Request Load Balancer (http://localhost:8989/loadBalancingWithRibbon) y vemos que podemos obtener la informacion de cuentas de los usuarios. Solo que un request lo hara sobre el server con puerto 8080, el otro request con el server del puerto 8081, y uno tercero sobre el server del puerto 8082. En los logs de cada instancia podemos ver la leyenda
 "The port used is <XXX> " cuando se haga la llamada del request al server correspondiente.
 
-19. Actualizaremos el pom.xml del LearningJava. Sin embargo, antes que nada, paremos las 3 instancias de LearningJava y la instancia de LoadBalancer.
+7. Paremos las 3 instancias de LearningJava y la instancia de LoadBalancer.
 
-``` bash
+
+
+### Implementacion de Kafka
+
+1. Actualizaremos el pom.xml del LearningJava.
+
+``` xml
 <dependency>
-			<groupId>org.springframework.kafka</groupId>
-			<artifactId>spring-kafka</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.kafka</groupId>
-			<artifactId>spring-kafka-test</artifactId>
-			<scope>test</scope>
-		</dependency>
+	<groupId>org.springframework.kafka</groupId>
+	<artifactId>spring-kafka</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.springframework.kafka</groupId>
+	<artifactId>spring-kafka-test</artifactId>
+	<scope>test</scope>
+</dependency>
 ```
 
 Nota: Implementaremos la anotacion de EnableKafka en SpringBootApplication
 	
-``` bash
+``` java
 	
 package com.wizeline.maven.learningjava;
 
@@ -349,10 +345,10 @@ public class LearningJavaApplication {
 }
 ```
 
-20.  Implementaremos ahora Kafka en nuestra aplicacion.
+2.  Implementaremos ahora Kafka en nuestra aplicacion.
 Crearemos una clase llamada KafkaConsumer dentro de la carpeta com.wizeline.maven.learningjava la cual tendra el siguiente contenido.
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.consumer;
 
 import java.util.List;
@@ -364,11 +360,6 @@ import org.springframework.stereotype.Component;
 
 import com.wizeline.maven.learningjava.model.BankAccountDTO;
 
-/**
- * Class Description goes here.
- * Created by enrique.gutierrez on 29/09/22
- */
-
 @Component
 public class KafkaConsumer {
 
@@ -379,9 +370,9 @@ public class KafkaConsumer {
 }
 ```
 
-21. Crearemos la clase KafkaConfiguration en el paquete com.wizeline.maven.learningjava.configuration
+3. Crearemos la clase **KafkaConfiguration** en el paquete **com.wizeline.maven.learningjava.configuration**
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.configuration;
 
 import java.util.HashMap;
@@ -452,7 +443,6 @@ public class KafkaConfiguration {
     }
 
     // Json Deserializer
-
     @Bean
     public ConsumerFactory<String, Object> jsonConsumerFactory() {
         Map<String, Object> config = new HashMap<>();
@@ -476,28 +466,28 @@ public class KafkaConfiguration {
 }
 
 ```
-22. En BankingAccountController hacemos autowiring de KafkaTemplate
 
+4. En **BankingAccountController** hacemos autowiring de KafkaTemplate
 
-``` bash
+``` java
 @Autowired
 private KafkaTemplate<Object, Object> template;
 ```
 
 E incluiremos el siguiente snippet que es un endpoint que mandara el mensaje usando KafkaTemplate
 
-``` bash
+``` java
 @PostMapping(path = "/send/{userId}")
 public void sendUserAccount(@PathVariable Integer userId) {
-		List<BankAccountDTO> accounts = bankAccountService.getAccounts();
-		BankAccountDTO account = accounts.get(userId);
-		this.template.send("useraccount-topic", account);
+	List<BankAccountDTO> accounts = bankAccountService.getAccounts();
+	BankAccountDTO account = accounts.get(userId);
+	this.template.send("useraccount-topic", account);
 }
 ```
 
-23. Agregamos la clase KafkaConsumer dentro del package com.wizeline.maven.learningjava.consumer
+5. Agregamos la clase **KafkaConsumer** dentro del package **com.wizeline.maven.learningjava.consumer**
 
-``` bash
+``` java
 package com.wizeline.maven.learningjava.consumer;
 
 import java.util.List;
@@ -509,10 +499,6 @@ import org.springframework.stereotype.Component;
 
 import com.wizeline.maven.learningjava.model.BankAccountDTO;
 
-/**
- * Class Description goes here.
- * Created by enrique.gutierrez on 29/09/22
- */
 
 @Component
 public class KafkaConsumer {
@@ -524,7 +510,7 @@ public class KafkaConsumer {
 }
 ```
 
-24. Corremos nuestra aplicacion de manera convencional (sin docker) y ejecutamos el request que se llama "Kafka". Vemos que en los logs
+6. Corremos nuestra aplicacion de manera convencional (sin docker) y ejecutamos el request que se llama "Kafka". Vemos que en los logs
 de la aplicacion de Springboot se imprime "Received: userX@wizeline.com".
 
 # :books: Para aprender mas
