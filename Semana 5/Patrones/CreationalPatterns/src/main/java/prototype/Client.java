@@ -9,10 +9,14 @@ public class Client {
         Scanner scan = new Scanner(System.in);
         int quantity = scan.nextInt();
 
-        PlaneMold planeMold = new MiG28Plane();
+        PlaneMold planeMold = new MigG29Plane();
+        planeMold.setColor("rojo");
+        planeMold.setNumberOfSeats(10);
 
         for(int i=0;i<quantity;i++){
-            planeMold.createPlane();
+            PlaneMold clonedPlane = planeMold.clone();
+            clonedPlane.setColor("azul");
+            clonedPlane.fly();
         }
 
     }
