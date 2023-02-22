@@ -1,6 +1,17 @@
 package prototype;
 
-public interface PlaneMold {
+public interface PlaneMold extends Cloneable {
 
-    void createPlane() throws CloneNotSupportedException;
+    String getColor();
+
+    void setColor(String color);
+
+    int getNumberOfSeats();
+
+    void setNumberOfSeats(int numberOfSeats);
+
+    void fly();
+
+    PlaneMold clone();
+
 }

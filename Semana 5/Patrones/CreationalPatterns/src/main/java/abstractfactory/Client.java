@@ -11,7 +11,6 @@ public class Client {
 
     public static void main(String[] args) {
         Application app;
-        GUIFactory factory;
 
         System.out.println("Choose an OS to render the app?");
         System.out.println("1.- MacOs");
@@ -20,15 +19,20 @@ public class Client {
         Scanner scan = new Scanner(System.in);
         int osOption = scan.nextInt();
 
-        if (osOption == 1) {
-            factory = new MacOSFactory();
-        } else if (osOption == 2){
-            factory = new WindowsFactory();
-        } else {
-            factory = new LinuxFactory();
-        }
+        GUIFactory guiFactory = getFactory(osOption);
 
-        app = new Application(factory);
+        app = new Application(guiFactory);
         app.paint();
+    }
+
+    // Abstract Factory
+    private static GUIFactory getFactory(int factoryType) {
+        if (factoryType == 1) {
+            return new MacOSFactory();
+        } else if (factoryType == 2){
+            return new WindowsFactory();
+        } else {
+            return new LinuxFactory();
+        }
     }
 }
