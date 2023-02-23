@@ -12,5 +12,4 @@ public interface Visitor {
 
     void visit(JsonElement je);
 
-    void visit(List<Element> elements);
 }

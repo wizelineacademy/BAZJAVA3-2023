@@ -9,12 +9,12 @@ public class Client {
         System.out.println("Welcome to ATM Money dispenser");
         Scanner scan = new Scanner(System.in);
 
-        MoneyChainHandler hundredDollarHandler_100 = new HundrenDollarHandler_100(100);
-        MoneyChainHandler fiftyDollarHandler_50 = new FiftyDollarHandler_50(50);
-        MoneyChainHandler tenDollarHandler_10 = new TenDollarHandler_10(10);
-        MoneyChainHandler fiveDollarHandler_5 = new FiveDollarHandler_5(5);
-        MoneyChainHandler twoDollarHandler_2 = new TwoDollarHandler_2(2);
-        MoneyChainHandler oneDollarHandler_1 = new OneDollarHandler_1(1);
+        MoneyChainHandler hundredDollarHandler_100 = new HundrenDollarHandler_100();
+        MoneyChainHandler fiftyDollarHandler_50 = new FiftyDollarHandler_50();
+        MoneyChainHandler tenDollarHandler_10 =new TenDollarHandler_10();
+        MoneyChainHandler fiveDollarHandler_5 = new FiveDollarHandler_5();
+        MoneyChainHandler twoDollarHandler_2 = new TwoDollarHandler_2();
+        MoneyChainHandler oneDollarHandler_1 = new OneDollarHandler_1();
 
         // Setting up the change
         hundredDollarHandler_100.setNextHandler(fiftyDollarHandler_50);
@@ -28,22 +28,6 @@ public class Client {
         hundredDollarHandler_100.handler(choice);
 
         System.out.println("=============================");
-
-        /*String repeatRunFlag = "y";
-        while (!repeatRunFlag.equalsIgnoreCase("no")) {
-            System.out.println("Please enter amount you want to withdraw eg 3450 ");
-            int choice = scan.nextInt();
-            hundredDollarHandler_100.handler(choice);
-
-            System.out.println("=============================");
-
-            System.out.println("Press No to Exit and any other character to repeat ....  ");
-            try {
-                repeatRunFlag = scan.next();
-            } catch (Exception e) {
-                repeatRunFlag = "n";
-            }
-        }*/
 
     }
 }

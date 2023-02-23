@@ -2,10 +2,15 @@ package visitor.elements;
 
 import visitor.Visitor;
 
-public class JsonElement extends Element {
+public class JsonElement implements Element {
+    private String uuid;
 
     public JsonElement(String uuid) {
-        super(uuid);
+        this.uuid = uuid;
+    }
+
+    public String getUuid() {
+        return this.uuid;
     }
 
     @Override

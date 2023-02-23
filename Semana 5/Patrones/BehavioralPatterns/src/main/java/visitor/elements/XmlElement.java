@@ -2,10 +2,15 @@ package visitor.elements;
 
 import visitor.Visitor;
 
-public class XmlElement extends Element {
+public class XmlElement implements Element {
+    private String uuid;
 
     public XmlElement(String uuid) {
-        super(uuid);
+        this.uuid = uuid;
+    }
+
+    public String getUuid() {
+        return this.uuid;
     }
 
     @Override
