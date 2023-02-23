@@ -4,21 +4,23 @@ import visitor.elements.Element;
 import visitor.elements.JsonElement;
 import visitor.elements.XmlElement;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.UUID;
 
 public class Client {
 
     public static void main(String[] args) {
 
-        List<Element> elements = new ArrayList<>();
-        elements.add(new JsonElement(generateUuid()));
-        elements.add(new JsonElement(generateUuid()));
-        elements.add(new XmlElement(generateUuid()));
+        Visitor consoleVisitor = new PrintToConsoleVisitor();
+        Visitor fileVisitor = new PrintToFileVisitor();
 
-        Visitor visitor = new ElementVisitor();
-        visitor.visit(elements);
+        Element jsonElement = new JsonElement(generateUuid());
+        jsonElement.accept(consoleVisitor);
+        jsonElement.accept(fileVisitor);
+
+        Element xmlElement = new XmlElement(generateUuid());
+        xmlElement.accept(consoleVisitor);
+        xmlElement.accept(fileVisitor);
+
     }
 
     private static String generateUuid() {

@@ -5,11 +5,13 @@ import java.util.List;
 
 public class Invoker {
 
-    private final List<Command> operations
-            = new ArrayList<>();
+    private Command command;
 
-    public void executeOperation(Command command) {
-        operations.add(command);
-        command.execute();
+    public void setCommand(Command command) {
+        this.command = command;
+    }
+
+    public void executeCommand() {
+        this.command.execute();
     }
 }
