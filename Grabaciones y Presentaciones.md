@@ -61,7 +61,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 6
 - [Lunes 27 Feb - JUnit](https://drive.google.com/file/d/10sRalSV3ymIpfBTwo284-SmDF8g88ZOy/view?usp=share_link)
-- 📺 [Grabación Lunes 27 Feb]()
+- 📺 [Grabación Lunes 27 Feb](https://drive.google.com/file/d/15t8oeekYK8EGOJwvqwbUfjC4YauK3sJe/view?usp=sharing)
 - [Martes 28 Feb - MOckito](https://drive.google.com/file/d/1YldkBoRayiMXchlUUaY-IRM1jtJfEiHD/view?usp=share_link)
 - 📺 [Grabación Martes 28 Feb]()
 - [Miércoles 1 Mar - Pruebas en SpringBoot](https://drive.google.com/file/d/1WDSbqLb45wGZuvK5VKBta7N6P0kV-d5f/view?usp=share_link)
