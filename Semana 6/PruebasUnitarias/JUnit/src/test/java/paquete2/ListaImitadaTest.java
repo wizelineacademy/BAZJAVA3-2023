@@ -40,7 +40,7 @@ public class ListaImitadaTest {
     }
 
     @Test
-    // Tambiés es posible obtener el objeto por inyección como parámetro
+    // También es posible obtener el objeto por inyección como parámetro
     public void DadoUnImitadorComoParametro_CuandoSeInvocaUnMetodo_EntoncesSeObtieneElValorPorDefecto(
             @Mock List<String> imitadorLista
     ) {

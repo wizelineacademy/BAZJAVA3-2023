@@ -35,7 +35,7 @@ public class Clase1Test {
         System.out.println("Antes de todas las pruebas: " + data);
     }
 
-    // Sólo se puede usar una anotación de descripición de pruebas
+    // Sólo se puede usar una anotación de descripción de pruebas
     // @Test
     @ParameterizedTest
     @ValueSource(shorts = {1, 2, 3})
