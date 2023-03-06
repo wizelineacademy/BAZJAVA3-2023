@@ -67,6 +67,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 1 Mar - Pruebas en SpringBoot](https://drive.google.com/file/d/1WDSbqLb45wGZuvK5VKBta7N6P0kV-d5f/view?usp=share_link)
 - 📺 [Grabación Miércoles 1 Mar](https://drive.google.com/file/d/1S9O7_3t8dV-A-8kJLW0-iH34ldywEeKU/view?usp=sharing)
 - [Jueves 2 Mar - Pruebas en SpringBoot](https://drive.google.com/file/d/1WDSbqLb45wGZuvK5VKBta7N6P0kV-d5f/view?usp=share_link)
-- 📺 [Grabación Jueves 2 Mar]()
+- 📺 [Grabación Jueves 2 Mar](https://drive.google.com/file/d/14sMIbwysE1w8wLICwDV0iq_MUW3kWqkx/view?usp=sharing)
 -  [Viernes 3 Mar - Cobertura de código](https://drive.google.com/file/d/113cY8oFdMYGcEBqeTCqyMLTAdpyfnROx/view?usp=sharing)
-- 📺 [Grabación Viernes 3 Mar]()
+- 📺 [Grabación Viernes 3 Mar](https://drive.google.com/file/d/1wTiIx7fCWIXdEgxRI0OmSfeCTa_UPgWS/view?usp=share_link)
